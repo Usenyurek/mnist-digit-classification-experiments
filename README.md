@@ -1,4 +1,4 @@
-# MNIST Digit Classification: ANN vs CNN 🔢
+# MNIST Digit Classification: ANN vs CNN
 
 This project demonstrates a Deep Learning solution for the **Kaggle Digit Recognizer** competition. The goal is to correctly classify handwritten digits (0-9) using the famous MNIST dataset.
 
